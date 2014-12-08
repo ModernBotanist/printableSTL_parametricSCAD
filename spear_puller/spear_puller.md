@@ -1,0 +1,1 @@
+Tool to help remove the valve spear on American sanke kegs. After the lock ring is removed, it can be difficult to remove the valve. This tool adds the leverage to pop the valve free. Printed in PLA at 20% infill.
